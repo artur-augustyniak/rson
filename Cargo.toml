@@ -7,4 +7,4 @@ authors = ["Artur Augustyniak <artur@aaugustyniak.pl>"]
 tiny_http = "0.5.8"
 serde_json = "0.9.5"
 ansi_term = "0.9"
-sys-info = "0.4.1"
+sys-info = "0.8.0"
